@@ -22,6 +22,8 @@
         echo "<h1> My Full Name is ${first} ${last}</h1>";
     }
 
+    // Multi Dimensional Arrays
+
     $bballPlayers = [
         [
             "name" => "MJ",
